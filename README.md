@@ -1,0 +1,2 @@
+# html5fromImages
+根据文件夹中图片文件生成简单HTML5展示页面
