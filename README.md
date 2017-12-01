@@ -1,7 +1,7 @@
 # html5fromImages
 根据文件夹中图片文件生成简单HTML5展示页面
 
-｀｀｀
+```
 npm install html5fromImages
 //切换到package.json所在目录
 sudo npm link
